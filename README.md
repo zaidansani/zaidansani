@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 hi, i’m zaidan sani, but most people just call me zai! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mzaidanbsani)
 
-i’m a computer science undergraduate at the national university of singapore, planning on taking a data analytics minor as well! i publish my notes for what i learn at nus at [the vault](https://zaidansani.github.io/thevault)!
+i’m a computer science undergraduate at the national university of singapore! i publish my notes for what i learn at nus at [the vault](https://zaidansani.github.io/thevault)
 
 my landing page can be found [here](https://zaidansani.github.io). it's a work in progress, but it serves as a pretty landing page for now!
 
